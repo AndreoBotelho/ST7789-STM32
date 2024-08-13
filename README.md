@@ -13,7 +13,7 @@ Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based LCD 
 
 Library test on a 240x280 SPI display whith STM32H743 MCU 
 
-[test](https://github.com/AndreoBotelho/ST7789-STM32/blob/master/fig/test.mp4)
+[test](https://github.com/AndreoBotelho/ST7789-STM32/raw/master/fig/test.mp4)
 
 ## How to use ?
 
