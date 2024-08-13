@@ -13,7 +13,7 @@ Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based LCD 
 
 Library test on a 240x280 SPI display whith STM32H743 MCU 
 
-<video src='fig/test.mp4' width=180/>
+><video src='fig/test.mp4' width=180/>
 
 ## How to use ?
 
