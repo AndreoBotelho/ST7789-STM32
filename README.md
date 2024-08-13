@@ -11,6 +11,9 @@ Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based LCD 
 
 > max spi speed teste was 36MHz but st7789 can go up to 66MHz with direct wiring
 
+Library test on a 240x280 SPI display whith STM32H743 MCU 
+
+![test](fig/test.mp4)
 
 ## How to use ?
 
