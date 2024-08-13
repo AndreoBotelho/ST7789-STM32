@@ -4,8 +4,11 @@ Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based LCD 
 
 # Remarks:
 > Tested on STM32H743
+
 > DMA now working without artifacs
+
 > for some reason(maybe wiring?) works only with HARDWARE NSS
+
 > max spi speed teste was 36MHz but st7789 can go up to 66MHz with direct wiring
 
 
